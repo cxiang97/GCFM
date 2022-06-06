@@ -21,7 +21,7 @@ A Graph Convolutional Fusion Model for Community Detection in Multiplex Networks
 python gcfm.py --name mLFR200_mu0.35
 ```
 
-#Requirements
+# Requirements
 
 - torch==1.3.1
 - numpy==1.17.2
